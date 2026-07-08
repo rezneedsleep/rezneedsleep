@@ -2,7 +2,6 @@
 
 # Hi There, I'm rez 👋
 
-**Chief Technology Officer @ Bytenodes** <br>
 _Infrastructure, Networking, Systems & Cybersecurity_
 
 [![Discord](https://img.shields.io/badge/Discord-vstn0-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vstn0)
@@ -20,6 +19,7 @@ _Infrastructure, Networking, Systems & Cybersecurity_
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC%20%2F%20LXD-333333?style=for-the-badge&logo=linuxcontainers&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### 🌐 Networking & Security
 
