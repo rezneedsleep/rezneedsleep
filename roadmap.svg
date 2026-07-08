@@ -1,0 +1,53 @@
+<svg viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+    <linearGradient id="bars" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#00ff9c"/>
+      <stop offset="100%" stop-color="#00c2ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="380" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="900" height="40" rx="14" fill="#161b22"/>
+  <rect x="0" y="26" width="900" height="14" fill="#161b22"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20" r="6" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" fill="#8b949e" font-size="13">rez@vstn: ~</text>
+
+  <!-- prompt -->
+  <text x="30" y="72" fill="#00ff9c" font-size="19" font-weight="bold">$ cat roadmap.txt</text>
+  <line x1="30" y1="86" x2="870" y2="86" stroke="#21262d" stroke-width="1"/>
+
+  <!-- roadmap items -->
+  <g font-size="16.5" fill="#c9d1d9">
+    <text x="30" y="118"><tspan fill="#58a6ff">▹</tspan> Full-stack web development</text>
+    <text x="30" y="148"><tspan fill="#58a6ff">▹</tspan> Game server setup &amp; management</text>
+    <text x="30" y="178"><tspan fill="#58a6ff">▹</tspan> Mikrotik &amp; Cisco networking</text>
+    <text x="30" y="208"><tspan fill="#58a6ff">▹</tspan> Linux &amp; system administration</text>
+    <text x="30" y="238"><tspan fill="#58a6ff">▹</tspan> AWS Cloud — VPC, subnets, security groups</text>
+    <text x="30" y="268"><tspan fill="#f778ba">▹</tspan> Microcontroller-based security &amp; hacking tools</text>
+    <text x="30" y="298"><tspan fill="#f778ba">▹</tspan> Cybersecurity &amp; penetration testing</text>
+  </g>
+
+  <!-- cursor -->
+  <rect x="30" y="312" width="10" height="18" fill="#00ff9c">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ascending bar graphic, right side, different style from source -->
+  <g transform="translate(760,60)">
+    <rect x="0"  y="220" width="14" height="20"  fill="url(#bars)" opacity="0.35" rx="2"/>
+    <rect x="20" y="190" width="14" height="50"  fill="url(#bars)" opacity="0.5" rx="2"/>
+    <rect x="40" y="150" width="14" height="90"  fill="url(#bars)" opacity="0.65" rx="2"/>
+    <rect x="60" y="100" width="14" height="140" fill="url(#bars)" opacity="0.8" rx="2"/>
+    <rect x="80" y="40"  width="14" height="200" fill="url(#bars)" opacity="1"   rx="2"/>
+  </g>
+
+  <line x1="0" y1="350" x2="900" y2="350" stroke="#00ff9c" stroke-width="2" opacity="0.6"/>
+</svg>
