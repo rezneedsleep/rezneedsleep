@@ -11,6 +11,14 @@ _Infrastructure, Networking, Systems & Cybersecurity_
 
 <div align="left">
 
+### `~ $ cat myself.txt`
+
+```text
+I build embedded systems (ESP32, Arduino), manage my own server stack on Proxmox and Docker, and do full-stack web dev with React and Vite. Most of my free time goes toward wireless security research and self-hosted infrastructure.
+```
+
+<br>
+
 ### `~ $ ls -l skills/`
 
 #### ☁️ Cloud & Infrastructure
