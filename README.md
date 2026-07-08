@@ -9,8 +9,8 @@ _Infrastructure, Networking, Systems & Cybersecurity_
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rezneedsleep&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezneedsleep&theme=dark&hide_border=true&layout=compact&bg_color=0d1117" alt="Top Languages" width="48%">
+<img src="https://github-stats-extended.vercel.app/api?username=rezneedsleep&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" width="48%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rezneedsleep&theme=dark&hide_border=true&layout=compact&bg_color=0d1117" alt="Top Languages" width="48%">
 
 <br>
 
@@ -53,12 +53,7 @@ _Infrastructure, Networking, Systems & Cybersecurity_
 
 <br>
 
-### `~ $ ls -l projects/`
 
-- 🎓 **EduTrack:** [edutrack.davinn.net](https://edutrack.davinn.net) - *School Management & Tracking System*
-- 🌐 **VSTN Tracker:** [tracker.vstn.cloud](https://tracker.vstn.cloud) - *Network & Infrastructure Monitoring*
-
-<br>
 
 ### `~ $ cat roadmap.txt`
 
