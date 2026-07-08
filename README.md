@@ -62,10 +62,7 @@ Cybersecurity & penetration testing
 </div>
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=rezneedsleep&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" width="48%">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rezneedsleep&theme=dark&hide_border=true&layout=compact&bg_color=0d1117" alt="Top Languages" width="48%">
-
-<br><br>
+<br>
 
 > 💡 _Building and breaking infrastructure, one server at a time._
 
