@@ -9,11 +9,6 @@ _Infrastructure, Networking, Systems & Cybersecurity_
 
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api?username=rezneedsleep&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" width="48%">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rezneedsleep&theme=dark&hide_border=true&layout=compact&bg_color=0d1117" alt="Top Languages" width="48%">
-
-<br>
-
 <div align="left">
 
 ### `~ $ ls -l skills/`
@@ -48,12 +43,9 @@ _Infrastructure, Networking, Systems & Cybersecurity_
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React%20%2F%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br>
-
-
 
 ### `~ $ cat roadmap.txt`
 
@@ -69,6 +61,11 @@ Cybersecurity & penetration testing
 
 </div>
 <br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=rezneedsleep&theme=dark&hide_border=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" width="48%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rezneedsleep&theme=dark&hide_border=true&layout=compact&bg_color=0d1117" alt="Top Languages" width="48%">
+
+<br><br>
 
 > 💡 _Building and breaking infrastructure, one server at a time._
 
