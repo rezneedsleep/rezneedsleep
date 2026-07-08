@@ -1,0 +1,49 @@
+<svg viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="380" rx="14" fill="url(#bg2)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- title bar -->
+  <rect x="0" y="0" width="900" height="40" rx="14" fill="#161b22"/>
+  <rect x="0" y="26" width="900" height="14" fill="#161b22"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20" r="6" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" fill="#8b949e" font-size="13">rez@vstn: ~</text>
+
+  <!-- prompt -->
+  <text x="30" y="72" fill="#00ff9c" font-size="19" font-weight="bold">$ ls ./skills</text>
+  <line x1="30" y1="86" x2="870" y2="86" stroke="#21262d" stroke-width="1"/>
+
+  <!-- skills as 3-column ls-style listing -->
+  <g font-size="16.5" fill="#58a6ff">
+    <text x="30"  y="120">proxmox/</text>
+    <text x="30"  y="152">docker/</text>
+    <text x="30"  y="184">aws/</text>
+    <text x="30"  y="216">mikrotik/</text>
+
+    <text x="310" y="120">linux/</text>
+    <text x="310" y="152">python</text>
+    <text x="310" y="184">nodejs</text>
+    <text x="310" y="216">mysql</text>
+
+    <text x="590" y="120">react</text>
+    <text x="590" y="152">wireguard/</text>
+    <text x="590" y="184">nginx/</text>
+  </g>
+
+  <line x1="30" y1="250" x2="870" y2="250" stroke="#21262d" stroke-width="1"/>
+  <text x="30" y="280" fill="#8b949e" font-size="14">11 items, 0 hidden</text>
+
+  <!-- cursor -->
+  <rect x="30" y="298" width="10" height="18" fill="#00ff9c">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="0" y1="350" x2="900" y2="350" stroke="#00ff9c" stroke-width="2" opacity="0.6"/>
+</svg>
